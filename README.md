@@ -2,7 +2,7 @@
 The Official LavaBot Documentation!
 
 ## Command List:
-* Please note - LavaBot's prefix is `?`!
+* Please note - LavaBot's prefix is `?`
 
 ### Fun & Games:
 * `8ball <question>` *Ask the magic 8ball a question!*
