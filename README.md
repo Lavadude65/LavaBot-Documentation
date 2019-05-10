@@ -43,7 +43,7 @@ The Official LavaBot Documentation!
 
 * `purge <amount of messages>` *Deletes a number of messages in bulk*
 
-* `unlockdown` *Will remove the lockdown set on a channel`
+* `unlockdown` *Will remove the lockdown set on a channel*
 
 * `unmute` *Will remove the mute applied to a user*
 
