@@ -13,7 +13,7 @@ The Official LavaBot Documentation!
 
 * `dog` *Show a random dog!*
 
-* `flip` *Flip a coin - Heads or Tails?`
+* `flip` *Flip a coin - Heads or Tails?*
 
 *  `meme` *Show a meme from a wide variety of subreddits!*
 
