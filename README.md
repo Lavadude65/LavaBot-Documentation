@@ -31,6 +31,12 @@ The Official LavaBot Documentation!
 
 * `whois <@user>` *Shows information about the specified user!*
 
+* `help` *Show a full list of commands!*
+
+* `sendmessage` *Will send a specified message to a channel!*
+
+* `pm` *Will private message a specified user a message that you specify!*
+
 ### Moderation
 
 * `ban <@user>` *Bans a user from the dicord server*
@@ -44,6 +50,8 @@ The Official LavaBot Documentation!
 * `purge <amount of messages>` *Deletes a number of messages in bulk*
 
 * `unlockdown` *Will remove the lockdown set on a channel*
+
+* `warn` *Will warn a user by sending them a DM telling them they have been warned and information about the warn.*
 
 * `unmute` *Will remove the mute applied to a user*
 
