@@ -21,6 +21,18 @@ The Official LavaBot Documentation!
 
 * `roll` *Roll a dice!*
 
+### Image Manipulation:
+
+* `triggered` *Add a "Triggered" water mark to yours or a mentioned users profile!*
+
+* `gay` *Add the LGBT flag to yours or a mentioned users profile!*
+
+* `wasted` *Add the Grand Theft Auto "Wasted" death screen to yours or another persons profile!*
+
+* `greyscale` *Make yours or a mentioned users profile greyscale!
+
+* `invert` *Invert the colours on yours or a mentioned users profile!*
+
 ### Utility:
 
 * `info` *Shows the bot's info!*
