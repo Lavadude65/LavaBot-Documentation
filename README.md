@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/jgNUsWQ.png "LavaBot Logo")
+
 # LavaBot-Documentation
 The Official LavaBot Documentation!
 
